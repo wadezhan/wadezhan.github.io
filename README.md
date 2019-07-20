@@ -1,1 +1,6 @@
-readme
+## dev
+
+npm run docs:dev
+
+## deploy
+
